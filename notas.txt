@@ -1,0 +1,11 @@
+JSON.stringify -->  es para transformar lo que sea a 
+texto y asi se pueda usar
+
+JSON.parse() es para volver a convertir el json que es texto
+a lo que era anteriormente 
+
+Custom Hook 
+
+Efectos = son ejecutar partes del codigo de los componentes
+(eventos externos)
+
